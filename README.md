@@ -2,7 +2,7 @@
 
 This is the first project of UT Austin's Houston Coding Bootcamp. This application was made with indecisive travelers in mind, and assists them in finding destinations to visit on roadtrips. 
 
-View the finished product [here](https://rchlblns.github.io/wavering-cichlids/)
+View the finished product [here](https://jmichael96.github.io/wavering-cichlids/)
 
 ## Built With
 * HTML5
